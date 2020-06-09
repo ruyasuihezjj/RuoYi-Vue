@@ -18,6 +18,7 @@ public class test {
         list.add("a");
         list.add("b");
         list.add("c");
+        list.add("d");
 
         Iterator<String> iter = list.iterator();
         while (iter.hasNext()){
